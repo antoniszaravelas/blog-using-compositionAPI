@@ -1,0 +1,19 @@
+{
+   "jobs": [
+      {
+         "title": "ui ux",
+         "id": 1,
+         "details": "lorem"
+      },
+      {
+         "title": "ui uxx",
+         "id": 2,
+         "details": "lorem"
+      },
+      {
+         "title": "ui uxx",
+         "id": 3,
+         "details": "lorem"
+      }
+   ]
+}
